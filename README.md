@@ -5,9 +5,9 @@
 
 - 👀 I’m interested in programming
 
-- 🌱 I’m currently learning **CSS, JS**
+- 🌱 I’m currently learning **Node.JS**
 
-- 💬 Ask me about **C, C++, DS**
+- 💬 Ask me about **C, C++, DS, CSS, JS**
 
 - 📫 How to reach me **dkdhani16@gmail.com**
 
