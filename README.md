@@ -9,10 +9,8 @@
 </p>
 
 <p align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=dhananjaykdhani&label=Profile%20views&color=0e75b6&style=flat)
-![Followers](https://img.shields.io/github/followers/dhananjaykdhani?label=Followers&style=social)
-
+  <img src="https://komarev.com/ghpvc/?username=dhananjaykdhani&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/dhananjaykdhani?label=Followers&style=social" alt="Followers"/>
 </p>
 
 ---
@@ -85,15 +83,11 @@ I lead <a href="https://www.samyora.co" target="_blank">SAMYORA PRIVATE LIMITED<
 ### GitHub Activity
 
 <p align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=dhananjaykdhani&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b35&currStreakLabel=c9d1d9)
-
+  <img src="https://streak-stats.demolab.com/?user=dhananjaykdhani&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b35&currStreakLabel=c9d1d9" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-
-![GitHub Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhananjaykdhani&theme=github_dark)
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhananjaykdhani&theme=github_dark" alt="GitHub Activity Graph"/>
 </p>
 
 ---
