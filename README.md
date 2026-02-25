@@ -9,15 +9,17 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dhananjaykdhani&label=Profile%20views&color=0e75b6&style=flat" alt="dhananjaykdhani" />
-  <img src="https://img.shields.io/github/followers/dhananjaykdhani?label=Followers&style=social" alt="followers" />
+
+![Profile Views](https://komarev.com/ghpvc/?username=dhananjaykdhani&label=Profile%20views&color=0e75b6&style=flat)
+![Followers](https://img.shields.io/github/followers/dhananjaykdhani?label=Followers&style=social)
+
 </p>
 
 ---
 
 ### About
 
-I lead [SAMYORA PRIVATE LIMITED](https://www.samyora.co), a technology company delivering end-to-end digital solutions for startups and enterprises. We specialize in building scalable web applications, cross-platform mobile apps, and AI-powered systems that drive measurable business outcomes.
+I lead <a href="https://www.samyora.co" target="_blank">SAMYORA PRIVATE LIMITED</a>, a technology company delivering end-to-end digital solutions for startups and enterprises. We specialize in building scalable web applications, cross-platform mobile apps, and AI-powered systems that drive measurable business outcomes.
 
 **Current Focus:**
 - Architecting production-grade applications using Next.js, React, and Node.js
@@ -46,45 +48,52 @@ I lead [SAMYORA PRIVATE LIMITED](https://www.samyora.co), a technology company d
 
 ### Tech Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-</p>
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
 ### Certifications
 
-- **Google Cloud** - Build Real World AI Applications with Gemini and Imagen
-- **Google Cloud** - Prompt Design in Vertex AI
+<a href="https://www.credly.com/badges/5d29d108-2f65-44fb-8afb-64f6d6bc4290/public_url" target="_blank">
+  <img src="https://img.shields.io/badge/Build_Real_World_AI_Apps_with_Gemini_&_Imagen-Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white" alt="Build Real World AI Applications"/>
+</a>
+<br/>
+<a href="https://www.credly.com/badges/2325690a-46e3-411e-a004-57061aba4722/public_url" target="_blank">
+  <img src="https://img.shields.io/badge/Prompt_Design_in_Vertex_AI-Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white" alt="Prompt Design in Vertex AI"/>
+</a>
 
 ---
 
 ### GitHub Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=dhananjaykdhani&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b35&currStreakLabel=c9d1d9" alt="GitHub Streak" />
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=dhananjaykdhani&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b35&currStreakLabel=c9d1d9)
+
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhananjaykdhani&theme=github_dark" alt="GitHub Activity Graph" />
+
+![GitHub Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhananjaykdhani&theme=github_dark)
+
 </p>
 
 ---
@@ -107,10 +116,10 @@ I lead [SAMYORA PRIVATE LIMITED](https://www.samyora.co), a technology company d
 </p>
 
 <p align="left">
-  <a href="mailto:dhananjay@samyora.app">
+  <a href="mailto:dhananjay@samyora.app" target="_blank">
     <img src="https://img.shields.io/badge/Email-dhananjay@samyora.app-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="mailto:info@samyora.app">
+  <a href="mailto:info@samyora.app" target="_blank">
     <img src="https://img.shields.io/badge/Business-info@samyora.app-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Business Email"/>
   </a>
 </p>
