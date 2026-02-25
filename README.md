@@ -1,6 +1,6 @@
 <h1 align="center">Dhananjay Kumar Dhani</h1>
 <h3 align="center">Co-founder & CEO at SAMYORA PRIVATE LIMITED</h3>
-<p align="center"><i>Web Development | Mobile Apps | AI & ML Solutions | Custom Software | Web3</i></p>
+<p align="center"><i>Web Development | Mobile Apps | AI & Automation | Chatbots | E-Commerce | Web3</i></p>
 
 <p align="center">
   <a href="https://www.samyora.co" target="_blank">
@@ -17,12 +17,12 @@
 
 ### About
 
-I lead <a href="https://www.samyora.co" target="_blank">SAMYORA PRIVATE LIMITED</a>, a technology company delivering end-to-end digital solutions for startups and enterprises. We specialize in building scalable web applications, cross-platform mobile apps, and AI-powered systems that drive measurable business outcomes.
+I lead <a href="https://www.samyora.co" target="_blank">SAMYORA PRIVATE LIMITED</a>, a full-service development studio offering end-to-end digital solutions for startups, businesses, and enterprises. We help clients build, optimize, and scale their digital presence with modern, cutting-edge technology.
 
 **Current Focus:**
-- Architecting production-grade applications using Next.js, React, and Node.js
-- Developing AI/ML solutions with TensorFlow and Python
-- Building Web3 applications with Solidity and Ethereum
+- Architecting production-grade web & mobile applications
+- Developing AI/ML solutions and intelligent automation workflows
+- Building chatbots and business process automation systems
 - Leading a distributed engineering team across multiple time zones
 
 **Background:**
@@ -34,13 +34,17 @@ I lead <a href="https://www.samyora.co" target="_blank">SAMYORA PRIVATE LIMITED<
 
 ### Services at SAMYORA
 
-| Domain | Stack |
-|--------|-------|
-| **Web Development** | Next.js, React, Node.js, TypeScript, Tailwind CSS, PostgreSQL, MongoDB |
-| **Mobile Development** | React Native, Flutter, Swift, Kotlin |
-| **AI & Machine Learning** | TensorFlow, PyTorch, Python, NLP, Computer Vision, LLMs |
-| **Custom Software** | Full-stack enterprise applications, API development, system architecture |
-| **Web3 & Blockchain** | Solidity, Ethereum, Smart Contracts, dApps |
+| Domain | What We Build |
+|--------|---------------|
+| **Web Development** | Custom Web Apps, SaaS Platforms, Landing Pages, Enterprise Portals, SEO Optimization |
+| **Mobile Apps** | Cross-Platform (React Native, Flutter), iOS & Android, App Store Deployment |
+| **AI & ML** | Custom AI Models, NLP, Computer Vision, Data Dashboards, AI Chatbots (GPT/Claude) |
+| **Chatbot Development** | Discord, WhatsApp, Telegram, Slack, MS Teams, Instagram/FB Messenger Bots |
+| **Automation** | CRM Automation, Email Drip Campaigns, HR/Invoice Automation, Zapier/n8n Workflows |
+| **E-Commerce** | Custom Stores, Payment Gateways, Inventory Automation, Cart Recovery |
+| **Data & Scraping** | Web Scraping, Report Generation, Data Sync (Sheets/Airtable), Form Automation |
+| **Custom Software** | Enterprise Solutions, API Development, Cloud Architecture (AWS, GCP) |
+| **Web3 & Blockchain** | Smart Contracts (Solidity), dApps, DeFi Platforms, NFT Marketplaces |
 
 ---
 
@@ -63,6 +67,7 @@ I lead <a href="https://www.samyora.co" target="_blank">SAMYORA PRIVATE LIMITED<
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
