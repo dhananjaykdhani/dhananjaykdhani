@@ -1,5 +1,5 @@
 <h1 align="center">Dhananjay Kumar Dhani</h1>
-<h3 align="center">Co-founder & CEO at SAMYORA PRIVATE LIMITED</h3>
+<h3 align="center">Co-founder of SAMYORA PRIVATE LIMITED</h3>
 <p align="center"><i>Web Development | Mobile Apps | AI & Automation | Chatbots | E-Commerce | Web3</i></p>
 
 <p align="center">
