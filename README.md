@@ -115,11 +115,11 @@ I lead <a href="https://www.samyora.co" target="_blank">SAMYORA PRIVATE LIMITED<
 </p>
 
 <p align="left">
-  <a href="mailto:dhananjay@samyora.app" target="_blank">
-    <img src="https://img.shields.io/badge/Email-dhananjay@samyora.app-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="mailto:dhananjay@samyora.co" target="_blank">
+    <img src="https://img.shields.io/badge/Email-dhananjay@samyora.co-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="mailto:info@samyora.app" target="_blank">
-    <img src="https://img.shields.io/badge/Business-info@samyora.app-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Business Email"/>
+  <a href="mailto:info@samyora.co" target="_blank">
+    <img src="https://img.shields.io/badge/Business-info@samyora.co-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Business Email"/>
   </a>
 </p>
 
