@@ -1,9 +1,9 @@
 <h1 align="center">Dhananjay Kumar Dhani</h1>
-<h3 align="center">Co-founder of SAMYORA PRIVATE LIMITED</h3>
+<h3 align="center">Co-founder at SAMYORA PRIVATE LIMITED</h3>
 <p align="center"><i>Web Development | Mobile Apps | AI & Automation | Chatbots | E-Commerce | Web3</i></p>
 
 <p align="center">
-  <a href="https://www.samyora.co" target="_blank">
+  <a href="https://www.samyora.co" target="_blank" rel="noopener noreferrer">
     <img src="https://avatars.githubusercontent.com/u/174689363?s=64" alt="SAMYORA" height="28" align="top"/><img src="https://img.shields.io/badge/SAMYORA-FF350C?style=for-the-badge" alt="SAMYORA" align="top"/>
   </a>
 </p>
@@ -17,7 +17,7 @@
 
 ### About
 
-I lead <a href="https://www.samyora.co" target="_blank">SAMYORA PRIVATE LIMITED</a>, a full-service development studio offering end-to-end digital solutions for startups, businesses, and enterprises. We help clients build, optimize, and scale their digital presence with modern, cutting-edge technology.
+I lead <a href="https://www.samyora.co" target="_blank" rel="noopener noreferrer">SAMYORA PRIVATE LIMITED</a>, a full-service development studio offering end-to-end digital solutions for startups, businesses, and enterprises. We help clients build, optimize, and scale their digital presence with modern, cutting-edge technology.
 
 **Current Focus:**
 - Architecting production-grade web & mobile applications
@@ -100,7 +100,7 @@ I lead <a href="https://www.samyora.co" target="_blank">SAMYORA PRIVATE LIMITED<
 ### Connect
 
 <p align="left">
-  <a href="https://www.samyora.co" target="_blank">
+  <a href="https://www.samyora.co" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Website-samyora.co-FF350C?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
   </a>
   <a href="https://linkedin.com/in/dhananjaykdhani" target="_blank">
@@ -115,11 +115,11 @@ I lead <a href="https://www.samyora.co" target="_blank">SAMYORA PRIVATE LIMITED<
 </p>
 
 <p align="left">
-  <a href="mailto:dhananjay@samyora.co" target="_blank">
-    <img src="https://img.shields.io/badge/Email-dhananjay@samyora.co-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="mailto:dhananjay@samyora.app" target="_blank">
+    <img src="https://img.shields.io/badge/Email-dhananjay@samyora.app-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="mailto:info@samyora.co" target="_blank">
-    <img src="https://img.shields.io/badge/Business-info@samyora.co-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Business Email"/>
+  <a href="mailto:info@samyora.app" target="_blank">
+    <img src="https://img.shields.io/badge/Business-info@samyora.app-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Business Email"/>
   </a>
 </p>
 
